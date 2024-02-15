@@ -1,13 +1,7 @@
-# gpt: breaking news!
+                        1. G
+                            \
+                    2. W -> C. E -> 5. Q  -> 6. h  
+                            /
+                            3. S
 
-```
-aesthetic ~ tokens
-```
-
-This models:
-
-1. life: challenge-skill matching (challenge: secure emotion)
-2. art: dancing in chains (`challenge: invoke emotion`)
-3. learning: how to use tools
-4. engineering: tools for life
-5. tragedy: "immunity" from natures fetters
+Science [kicks off](https://en.wikipedia.org/wiki/CGh_physics) where Hesiod's Theogony left us
