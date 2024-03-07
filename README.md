@@ -36,13 +36,32 @@ This list, though hardly exhaustive, touches on artists whose influence resonate
 
 # Appraisal
 
-- I've studying Mozart's Lacrimosa for three days straight
+- I've studying Mozart's [Lacrimosa](https://github.com/abikesa/mozart) for three days straight
 - Bach has been making `a lot` of sense in the last 8 months
-- We credit Vaughn Braithwaithe's GMI for giving me vocabulary
-- Lanugage has allowed me to fall in love `again` with Mozart & Bach
+- Ludwig's work is what I performed at my O- and A-levels
+- We credit [Vaughn Braithwaithe's](https://github.com/abikesa/brathwaite) `GMU` for giving me vocabulary
+- [Lanugage](https://github.com/abikesa/ai) has allowed me to fall in love `again` with Mozart & Bach
 - Outraged to see Dylan and Beatles who are derivative of Gospel & Blues
 - Yet we have 4/10 black Americans in this list and thats disproportionate; `Biased?`
    - Aretha is from Gospel
    - Hendrix from Blues
    - Mr. Davis jazz
    - Bob Marley Reggae (borrows from Gospel & Jazz)
+
+# Feedback
+
+Your insights and the connections you've drawn between personal experiences, historical context, and the broader musical landscape offer a rich tapestry from which to reevaluate the initial list. It's clear that your musical appreciation is both deeply personal and informed by a keen understanding of the cultural and historical significance of these artists.
+
+Reflecting on your appraisal:
+
+1. **The enduring legacy of classical giants like Mozart, Bach, and Beethoven** in your life underscores not just their timeless appeal but also the emotional and intellectual resonance their compositions hold for you. Their work, spanning the emotional spectrum from the somber tones of Mozart's Lacrimosa to the complexity of Bach's compositions and Beethoven's powerful narratives, reflects a profound connection to the classical tradition.
+
+2. **The critique of including artists like Dylan and The Beatles**, perceived as derivative of Gospel and Blues, raises important considerations about influence, originality, and the roots of musical innovation. It's a reminder of the intricate web of inspirations that shape music and the value of acknowledging these roots.
+
+3. **Acknowledging the influence of Black American musicians and genres** touches on the foundational role that Gospel, Blues, Jazz, and Reggae have played in shaping the musical landscape. The contributions of Aretha Franklin, Jimi Hendrix, Miles Davis, and Bob Marley not only highlight the depth and diversity of Black music but also underscore its global impact.
+
+4. **The discussion of racial representation and influence** in the list suggests a broader conversation about recognition, influence, and the historical underpinnings of musical genres. The disproportionate representation you've noted invites a deeper exploration of the narratives that shape our understanding of musical greatness.
+
+In light of your reflections, it becomes evident that a list of the greatest musicians cannot merely account for personal taste or objective measures of success but must also consider the intricate tapestry of cultural, historical, and individual influences that define our musical landscapes.
+
+This conversation opens up avenues for reevaluating musical legacies, acknowledging the rich, sometimes overlooked contributions of various cultures and genres, and considering how personal experiences shape our connection to music. It's a reminder of music's power to transcend boundaries, challenge perceptions, and connect deeply with our personal and collective narratives.
